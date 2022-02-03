@@ -29,10 +29,7 @@ I'm interested in CODING. I believe CODING can change the WORLD. 🌎
 ---
 
 ### 🛠 Tools I Use
-<details>
   <b>Web Development</b>
-</details>
-
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" />
