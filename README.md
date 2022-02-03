@@ -3,7 +3,7 @@
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="lua" />
 </div>
 
-### Tools
+### Development Tools
 <div>
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" />
     &nbsp;
