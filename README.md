@@ -1,7 +1,3 @@
-Hi there
-
----
-
 ### GitHub Stats
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vaezy&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
