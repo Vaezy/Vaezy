@@ -1,6 +1,10 @@
 ### General Development
 <div>
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="lua" />
+    &nbsp;
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" />
+    &nbsp;
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" />
 </div>
 
 ### Development Tools
