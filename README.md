@@ -91,10 +91,7 @@ I'm interested in CODING. I believe CODING can change the WORLD. 🌎
 <div align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" />
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" />
 </div>
 
 <br />
