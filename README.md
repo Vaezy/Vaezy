@@ -30,7 +30,7 @@ I'm interested in CODING. I believe CODING can change the WORLD. 🌎
 
 ### 🛠 Tools I Use
 <details>
-  <b>Web Development</b></summary>
+  <b>Web Development</b>
 </details>
 
 <div>
