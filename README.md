@@ -17,7 +17,9 @@
 
 ### Tools
 <div>
+    <li>
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" />
     &nbsp;
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" />
+        </li>
 </div>
