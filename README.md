@@ -19,7 +19,9 @@
 <div>
     <li>
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" />
+    </li>
     &nbsp;
+    <li>
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" />
-        </li>
+    </li>
 </div>
