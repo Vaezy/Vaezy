@@ -11,8 +11,8 @@
 ### General Development
 <div>
   <li>
-    &nbsp;
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="lua" />
+    &nbsp;
   </li>
 </div>
 
