@@ -31,14 +31,6 @@ I'm interested in CODING. I believe CODING can change the WORLD. 🌎
 ### 🛠 Tools I Use
 <details>
   <summary><b>Web Development</b></summary>
-  <ul>
-    <li>
-      I prefer <b>TailwindCSS</b> and <b>Bootstrap</b> for my ui. web technology mostly uses <b>Next.js</b>, For all of these, I use <b>JavaScript</b> and <b>CSS3</b>. The <b>Database</b>, I mainly select <b>MongoDB</b> and <b>MySQL</b>, up to my web requirement and my mood at that time. <i>lmao!</i>
-    </li>
-    <li>
-      Before I found true love like <b>Next.js</b>. My web technology uses <b>NodeJS</b> with <b>expressJS</b> and <b>template engine</b> to provide my website. Back in the past, I caught up with <b>PHP</b>, lol.
-    </li>
-    </ul>
 </details>
 
 <div>
