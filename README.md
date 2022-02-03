@@ -8,14 +8,6 @@
 
 ### 🛠 Tools I Use
 <b>Web Development</b>
-<details>
-  <summary><b>General Development</b></summary>
-  <ul>
-    <li>
-      I love OOP so I stuck with <b>Java</b> ☕. On my game development, I use <b>Java</b> and <b>LUA</b>. Sometimes I write <b>C</b> and <b>Python</b>.
-    </li>
-  </ul>
-</details>
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="lua" />
