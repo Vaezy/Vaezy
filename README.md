@@ -56,18 +56,7 @@ I'm interested in CODING. I believe CODING can change the WORLD. 🌎
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="lua" />
 </div>
-
-<br />
-    
-<details>
-  <summary><b>Development Tools</b></summary>
-  <ul>
-    <li>
-      I use <b>Visual Studio Code</b> in my general development like <i>JavaScript, Lua, C, Python</i>. I do <i>Java</i> programming on <b>IntelliJ IDEA</b>. In my university when working with Robot I prefer <b>Arduino IDE</b>. My version control system is <b>git</b>. I use <b>Docker</b> for building, shipping, and running distributed applications. the last is <b>GitLab</b> for CI/CD on my process.
-    </li>
-  </ul>
-</details>
-
+   
 <div align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" />
