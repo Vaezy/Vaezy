@@ -10,8 +10,6 @@
 
 ### General Development
 <div>
-  &nbsp;
-
   <li>
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="lua" />
   </li>
@@ -20,5 +18,6 @@
 ### Tools
 <div>
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" />
+    &nbsp;
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" />
 </div>
