@@ -10,8 +10,8 @@
 
 ### General Development
 <div>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <li>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="lua" />
   </li>
 </div>
