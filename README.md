@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠 Tools I Use
+### 🛠 Tools
   <b>Web Development</b>
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,5 +20,3 @@
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" />
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" />
 </div>
-
-<br />
