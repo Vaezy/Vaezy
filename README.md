@@ -1,6 +1,10 @@
 ### Hi, 👋🏼
 
+Welcome to my Github profile ! 
 
+### 🧑 Who I am ?
+
+I'm Vaezy, a student with a passion for programming, currently training in the field of web development. My passion for creating and solving problems has led me to explore various programming languages and develop a variety of skills in the field of web development.
 
 <!--
 **Vaezy/Vaezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
