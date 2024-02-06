@@ -1,22 +1,19 @@
 ### Hi, 👋🏼
 
-Welcome to my Github profile ! 
+Welcome to my GitHub profile ! 
 
 ### 🧑 Who I am ?
 
 I'm Vaezy, a student with a passion for programming, currently training in the field of web development. My passion for creating and solving problems has led me to explore various programming languages and develop a variety of skills in the field of web development.
 
-<!--
-**Vaezy/Vaezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My skills 🚀
 
-Here are some ideas to get you started:
+My current skills include HTML, CSS, JS, PHP and SQL. Constantly striving to improve, I strive to deepen my knowledge and explore new technologies to stay up to date with web development trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Upcoming projects 🛠️
+
+Each of my future projects will reflect my passion for programming and my commitment to creating innovative solutions in this field. I invite you to follow the evolution of my work by exploring my repositories, where I will gradually share my most recent achievements.
+
+### Objectives 🎯
+
+My main goal is to make a significant contribution to the web development community. Whether through open source projects, knowledge sharing or collaboration, I aim to enrich the field of web development and benefit from the experience of my colleagues.
