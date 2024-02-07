@@ -30,7 +30,7 @@ My main goal is to make a significant contribution to the web development commun
 ![JavaScript](https://img.shields.io/badge/JavaScript-19191B?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-19191B?style=for-the-badge&logo=php)
 ![SQL](https://img.shields.io/badge/MySQL-19191B?style=for-the-badge&logo=mysql)
-![Lua](https://img.shields.io/badge/Lua-19191B?style=for-the-badge&logo=lua)
+![Lua](https://img.shields.io/badge/Lua-19191B?style=for-the-badge&logo=lua&logoColor=42A5F5)
 ![Markdown](https://img.shields.io/badge/Markdown-19191B?style=for-the-badge&logo=markdown)
 
 ### 📚 Tools
