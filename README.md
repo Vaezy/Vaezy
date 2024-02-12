@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/img/logo.png" alt="logo">
+  <img src="assets/img/logo.png" alt="logo" style="border-radius: 50%;">
 </div>
 
 ---
