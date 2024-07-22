@@ -8,11 +8,11 @@
 
 ### 🧑🏽 About me
 
-🔍 Passionate student of programming, particularly in the field of web development, constantly on the lookout for the latest technological advancements to enhance my skills.
+🔍 I’m a passionate student of programming, with a particular interest in web development. I’m constantly exploring the latest technological advancements to enhance my skills.
 
-🌟 With a preference for the front-end for its captivating interfaces, I aim to excel in both front-end and back-end, in order to become a versatile developer.
+🌟 I have a preference for front-end development due to its engaging interfaces, but I strive to excel in both front-end and back-end to become a versatile developer.
 
-### 🖥️ Techno used
+### 🖥️ Technologies Used
 ![HTML](https://img.shields.io/badge/HTML-19191B?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-19191B?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-19191B?style=for-the-badge&logo=javascript)
@@ -28,5 +28,5 @@
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-19191B?style=for-the-badge&logo=phpmyadmin&logoColor=4F5B93)
 ![Git](https://img.shields.io/badge/Git-19191B?style=for-the-badge&logo=git)
 
-### 🌐 Social links
+### 🌐 Social Links
 ![Discord](https://img.shields.io/badge/Discord_:_vaezy-19191B?style=for-the-badge&logo=discord&logoColor=5865F2)
